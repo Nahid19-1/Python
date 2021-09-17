@@ -1,0 +1,5 @@
+my first file
+This file
+
+contains three lines
+a - Append - will append to the end of the file
